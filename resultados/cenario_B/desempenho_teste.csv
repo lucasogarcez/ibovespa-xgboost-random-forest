@@ -1,0 +1,4 @@
+﻿,acuracia,precisao,recall,f1_alta,f1_macro,acuracia_balanceada
+Classe majoritária,0.5114,0.5114,1.0,0.6767,0.3384,0.5
+Random Forest,0.5278,0.5483,0.4356,0.4855,0.5246,0.53
+XGBoost,0.5253,0.5294,0.646,0.5819,0.5164,0.5225
